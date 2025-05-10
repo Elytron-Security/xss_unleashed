@@ -28,7 +28,7 @@ Se tratam de 21 “tasks“ baseadas em ataques XSS que evoluem sua complexidade
 Para obter a cópia do projeto, clone o repositório.
 
 ```bash
-git clone https://github.com/h41stur/xss_unleashed.git && cd xss_unleashed
+git clone https://github.com/Elytron-Security/xss_unleashed.git && cd xss_unleashed
 ```
 
 Para "*buildar*" o contêiner:
