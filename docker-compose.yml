@@ -1,0 +1,12 @@
+version: '3.8'
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "80:80"
+    # env_file: ".env"
+    volumes:
+      - ./src:/var/www/html
+    container_name: xss_unleashed

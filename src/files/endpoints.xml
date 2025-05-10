@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<apiendpoints>
+    <id>Beyond the Alert</id>
+    <endpoint>/task-21/creditCards/</endpoint>
+    <method>GET</method>
+    <params id="user_id">
+        <user_id-param-description>User ID</user_id-param-description>
+        <user_id-param-value>3663</user_id-param-value>
+    </params>
+    <params id="token">
+        <token-param-description>User Token</token-param-description>
+        <token-param-value>d8aea5b04b59ad8a36d1e2c10a77c426</token-param-value>
+    </params>
+</apiendpoints>
